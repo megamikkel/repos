@@ -1,0 +1,5 @@
+C:\Users\mikke\source\repos\afl_opgave7_ekstravar\afl_opgave7_ekstravar\obj\Debug\net6.0\afl_opgave7_ekstravar.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave7_ekstravar\afl_opgave7_ekstravar\obj\Debug\net6.0\afl_opgave7_ekstravar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave7_ekstravar\afl_opgave7_ekstravar\obj\Debug\net6.0\afl_opgave7_ekstravar.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave7_ekstravar\afl_opgave7_ekstravar\obj\Debug\net6.0\afl_opgave7_ekstravar.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave7_ekstravar\afl_opgave7_ekstravar\obj\Debug\net6.0\afl_opgave7_ekstravar.csproj.CoreCompileInputs.cache

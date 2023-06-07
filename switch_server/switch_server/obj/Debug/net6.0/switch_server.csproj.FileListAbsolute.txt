@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\switch_server\switch_server\bin\Debug\net6.0\switch_server.exe
+C:\Users\mikke\source\repos\switch_server\switch_server\bin\Debug\net6.0\switch_server.deps.json
+C:\Users\mikke\source\repos\switch_server\switch_server\bin\Debug\net6.0\switch_server.runtimeconfig.json
+C:\Users\mikke\source\repos\switch_server\switch_server\bin\Debug\net6.0\switch_server.dll
+C:\Users\mikke\source\repos\switch_server\switch_server\bin\Debug\net6.0\switch_server.pdb
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.AssemblyInfo.cs
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.dll
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\refint\switch_server.dll
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.pdb
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\switch_server.genruntimeconfig.cache
+C:\Users\mikke\source\repos\switch_server\switch_server\obj\Debug\net6.0\ref\switch_server.dll

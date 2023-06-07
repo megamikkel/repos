@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "afl_opg7_lille_tabel/1.0.0": {
+        "runtime": {
+          "afl_opg7_lille_tabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "afl_opg7_lille_tabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\bin\Debug\net6.0\afl_opg7_lille_tabel.exe
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\bin\Debug\net6.0\afl_opg7_lille_tabel.deps.json
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\bin\Debug\net6.0\afl_opg7_lille_tabel.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\bin\Debug\net6.0\afl_opg7_lille_tabel.dll
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\bin\Debug\net6.0\afl_opg7_lille_tabel.pdb
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.dll
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\refint\afl_opg7_lille_tabel.dll
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.pdb
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\afl_opg7_lille_tabel.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opg7_lille_tabel\afl_opg7_lille_tabel\obj\Debug\net6.0\ref\afl_opg7_lille_tabel.dll

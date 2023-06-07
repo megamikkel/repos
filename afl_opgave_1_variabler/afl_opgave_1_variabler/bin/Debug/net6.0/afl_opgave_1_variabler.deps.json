@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "afl_opgave_1_variabler/1.0.0": {
+        "runtime": {
+          "afl_opgave_1_variabler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "afl_opgave_1_variabler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

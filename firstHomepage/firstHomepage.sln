@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "firstHomepage", "..\..\..\OneDrive\Code\HTML\firstHomepage\", "{F964C2DC-558A-47E7-9F50-7A759ED9D8D6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59453"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Code\HTML\firstHomepage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59453\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59453"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Code\HTML\firstHomepage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59453\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59453"
+		SlnRelativePath = "..\..\..\OneDrive\Code\HTML\firstHomepage\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F964C2DC-558A-47E7-9F50-7A759ED9D8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F964C2DC-558A-47E7-9F50-7A759ED9D8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA62147-9378-4A7A-A9F3-801AC01C3F77}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\bin\Debug\net6.0\afl_opgave5_metoder.exe
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\bin\Debug\net6.0\afl_opgave5_metoder.deps.json
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\bin\Debug\net6.0\afl_opgave5_metoder.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\bin\Debug\net6.0\afl_opgave5_metoder.dll
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\bin\Debug\net6.0\afl_opgave5_metoder.pdb
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.dll
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\refint\afl_opgave5_metoder.dll
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.pdb
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\afl_opgave5_metoder.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opgave5_metoder\afl_opgave5_metoder\obj\Debug\net6.0\ref\afl_opgave5_metoder.dll

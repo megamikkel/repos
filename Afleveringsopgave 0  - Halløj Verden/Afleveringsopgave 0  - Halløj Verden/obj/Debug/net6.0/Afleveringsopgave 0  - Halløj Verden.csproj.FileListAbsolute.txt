@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\bin\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.exe
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\bin\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.deps.json
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\bin\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.runtimeconfig.json
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\bin\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.dll
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\bin\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.pdb
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.AssemblyInfo.cs
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.dll
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\refint\Afleveringsopgave 0  - Halløj Verden.dll
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.pdb
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\Afleveringsopgave 0  - Halløj Verden.genruntimeconfig.cache
+C:\Users\mikke\source\repos\Afleveringsopgave 0  - Halløj Verden\Afleveringsopgave 0  - Halløj Verden\obj\Debug\net6.0\ref\Afleveringsopgave 0  - Halløj Verden.dll

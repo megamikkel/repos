@@ -1,0 +1,16 @@
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\bin\Debug\WPF_TUT4.exe.config
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\bin\Debug\WPF_TUT4.exe
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\bin\Debug\WPF_TUT4.pdb
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\MainWindow.g.cs
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\App.g.cs
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4_MarkupCompile.cache
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4_MarkupCompile.lref
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\MainWindow.baml
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.g.resources
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.Properties.Resources.resources
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.csproj.GenerateResource.cache
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.exe
+C:\Users\mikke\source\repos\WPFTutorial\WPF_TUT4\WPF_TUT4\obj\Debug\WPF_TUT4.pdb

@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\bin\Debug\net6.0\fl_opgave_2_betingelser.exe
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\bin\Debug\net6.0\fl_opgave_2_betingelser.deps.json
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\bin\Debug\net6.0\fl_opgave_2_betingelser.runtimeconfig.json
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\bin\Debug\net6.0\fl_opgave_2_betingelser.dll
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\bin\Debug\net6.0\fl_opgave_2_betingelser.pdb
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.AssemblyInfo.cs
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.dll
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\refint\fl_opgave_2_betingelser.dll
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.pdb
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\fl_opgave_2_betingelser.genruntimeconfig.cache
+C:\Users\mikke\source\repos\fl_opgave_2_betingelser\fl_opgave_2_betingelser\obj\Debug\net6.0\ref\fl_opgave_2_betingelser.dll

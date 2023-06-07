@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\bin\Debug\net6.0\afl_opgave3_loops.exe
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\bin\Debug\net6.0\afl_opgave3_loops.deps.json
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\bin\Debug\net6.0\afl_opgave3_loops.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\bin\Debug\net6.0\afl_opgave3_loops.dll
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\bin\Debug\net6.0\afl_opgave3_loops.pdb
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.dll
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\refint\afl_opgave3_loops.dll
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.pdb
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\afl_opgave3_loops.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opgave3_loops\afl_opgave3_loops\obj\Debug\net6.0\ref\afl_opgave3_loops.dll

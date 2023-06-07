@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\Liste\Liste\bin\Debug\net6.0\Liste.exe
+C:\Users\mikke\source\repos\Liste\Liste\bin\Debug\net6.0\Liste.deps.json
+C:\Users\mikke\source\repos\Liste\Liste\bin\Debug\net6.0\Liste.runtimeconfig.json
+C:\Users\mikke\source\repos\Liste\Liste\bin\Debug\net6.0\Liste.dll
+C:\Users\mikke\source\repos\Liste\Liste\bin\Debug\net6.0\Liste.pdb
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.AssemblyInfo.cs
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.dll
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\refint\Liste.dll
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.pdb
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\Liste.genruntimeconfig.cache
+C:\Users\mikke\source\repos\Liste\Liste\obj\Debug\net6.0\ref\Liste.dll

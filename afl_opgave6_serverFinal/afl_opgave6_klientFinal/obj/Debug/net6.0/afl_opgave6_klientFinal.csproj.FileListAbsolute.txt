@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\bin\Debug\net6.0\afl_opgave6_klientFinal.exe
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\bin\Debug\net6.0\afl_opgave6_klientFinal.deps.json
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\bin\Debug\net6.0\afl_opgave6_klientFinal.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\bin\Debug\net6.0\afl_opgave6_klientFinal.dll
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\bin\Debug\net6.0\afl_opgave6_klientFinal.pdb
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.dll
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\refint\afl_opgave6_klientFinal.dll
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.pdb
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\afl_opgave6_klientFinal.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opgave6_serverFinal\afl_opgave6_klientFinal\obj\Debug\net6.0\ref\afl_opgave6_klientFinal.dll

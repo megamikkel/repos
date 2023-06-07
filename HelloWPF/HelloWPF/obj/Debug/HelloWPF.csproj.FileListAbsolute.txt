@@ -1,0 +1,16 @@
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\mikke\source\repos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb

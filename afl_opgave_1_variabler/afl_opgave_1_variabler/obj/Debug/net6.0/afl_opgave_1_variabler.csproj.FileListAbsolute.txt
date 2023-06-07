@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\bin\Debug\net6.0\afl_opgave_1_variabler.exe
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\bin\Debug\net6.0\afl_opgave_1_variabler.deps.json
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\bin\Debug\net6.0\afl_opgave_1_variabler.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\bin\Debug\net6.0\afl_opgave_1_variabler.dll
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\bin\Debug\net6.0\afl_opgave_1_variabler.pdb
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.dll
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\refint\afl_opgave_1_variabler.dll
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.pdb
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\afl_opgave_1_variabler.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opgave_1_variabler\afl_opgave_1_variabler\obj\Debug\net6.0\ref\afl_opgave_1_variabler.dll

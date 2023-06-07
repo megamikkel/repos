@@ -1,0 +1,15 @@
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\bin\Debug\net6.0\afl_opgave7_final1.exe
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\bin\Debug\net6.0\afl_opgave7_final1.deps.json
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\bin\Debug\net6.0\afl_opgave7_final1.runtimeconfig.json
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\bin\Debug\net6.0\afl_opgave7_final1.dll
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\bin\Debug\net6.0\afl_opgave7_final1.pdb
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.csproj.AssemblyReference.cache
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.AssemblyInfoInputs.cache
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.AssemblyInfo.cs
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.csproj.CoreCompileInputs.cache
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.dll
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\refint\afl_opgave7_final1.dll
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.pdb
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\afl_opgave7_final1.genruntimeconfig.cache
+C:\Users\mikke\source\repos\afl_opgave7_final1\afl_opgave7_final1\obj\Debug\net6.0\ref\afl_opgave7_final1.dll
